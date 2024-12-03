@@ -15,8 +15,7 @@ For 2024/25, we plan to develop a BCI that will allow individuals with motor imp
 ### Machine Learning team
 [Shohail Ismail](https://github.com/shohail-ismail)
 
-[Nikola Zhekov] 
-(https://github.com/git-Blue-hub) 
+[Nikola Zhekov](https://github.com/git-Blue-hub) 
 
 ### Signal Processing team
 [Thorpe Thorpe](https://github.com/ImJustChaotic)
@@ -28,9 +27,6 @@ For 2024/25, we plan to develop a BCI that will allow individuals with motor imp
 [Nayantara Njondimackal](https://github.com/lnlnlnl)
 
 [Adam Wieczorek](https://github.com/skewbmaster)
-
-[Lucy Dalzell](https://github.com/luna-dzx)
-
 
 
 ### Data Collection team
